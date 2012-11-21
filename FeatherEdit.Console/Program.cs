@@ -1,0 +1,9 @@
+﻿namespace FeatherEdit.Console
+{
+    class Program
+    {
+        static void Main(string[] args)
+        {
+        }
+    }
+}
